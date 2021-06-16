@@ -43,7 +43,7 @@ The table below shows temperature statistics from June and December.
 * The maximum temperature in June is 85F compared to December 83F.  
 * The mean temperature in June is around 75F and 71F in December.
 
-![june_dec_tobs]()
+![june_dec_tobs](Resources/june_dec_temp.png)
 
 ### Precipitation Summary Table:
 
