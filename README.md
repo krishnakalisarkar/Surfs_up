@@ -60,7 +60,7 @@ The table below shows temperature statistics from June and December.
 * The maximum amount of rainfall recorded in June 4.43 and 6.42 in December.   
 * The average rainfall recorded in June is 0.14 and 0.21 in December.
 
-![june_dec_prcp]()
+![june_dec_prcp](Resources/june_dec_prcp.png)
 
 ## Summary:
 
